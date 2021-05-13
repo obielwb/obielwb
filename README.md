@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, i'm Gabriel 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bartmanovicz/)](https://www.linkedin.com/in/gabriel-bartmanovicz/) 
+<p> Here is a little more about me: <p>
+  
+- 🏫 IT Student at Technical High School of Campinas - UNICAMP
+- 🌎 I have the dream of changing the world around me with technology and creativity
+- 📚 Curious full time
+
+<br>
 
 <!--
 **obielwb/obielwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
