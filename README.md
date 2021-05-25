@@ -8,9 +8,11 @@
 - 🏫 IT Student at Technical High School of Campinas - UNICAMP
 - 🌎 I have the dream of changing the world around me with technology and creativity
 - 📚 Curious full time
-
-
 <br>
+
+<h1 align="center">Languages 🖥️</h1>
+
+<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obielwb" /></p>
 
 <!--
 **obielwb/obielwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
