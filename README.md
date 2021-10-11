@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
 </p>
 
-### What i Want To Learn
+### What i am learning now 
 
 <p> 
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white">
