@@ -1,6 +1,7 @@
 # Hi, i'm Gabriel 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bartmanovicz/)](https://www.linkedin.com/in/gabriel-bartmanovicz/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:obielwb@gmail.com)](mailto:obielwb@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/obielwb?hr_r=1/)
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 ### Here is a little more about me: 
@@ -26,6 +27,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
+  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white">
 </p>
 
 ### What i am learning now 
@@ -35,7 +37,9 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D">
-  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white">
+  <img alt="Next js" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
 ---
