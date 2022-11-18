@@ -26,7 +26,7 @@ Hi there, I'm Gabriel</a> 👋
 ## 🔭 I'm currently working on
 
 - Portfolio website
-- [QuimicaAnimada website](quimicanimada.com.br)
+- [QuimicaAnimada website](https://quimicanimada.com.br)
 
 ## 🌱 I'm currently learning
 
