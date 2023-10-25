@@ -14,7 +14,7 @@ Hi there, I'm Gabriel</a> 👋
 - I have the dream of changing the world around me with technology and creativity
 - Curious full time
 
-### 🤝 Connect with me:
+###  Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bartmanovicz/)](https://www.linkedin.com/in/gabriel-bartmanovicz/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:obielwb@gmail.com)](mailto:obielwb@gmail.com)
@@ -22,12 +22,12 @@ Hi there, I'm Gabriel</a> 👋
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
 - Portfolio website
 - [QuimicaAnimada website](https://quimicanimada.com.br)
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 - Data Structures and advanced algorithms
 - Advanced Java
