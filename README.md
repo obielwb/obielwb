@@ -12,7 +12,7 @@ Go, Java, Kotlin, Python, C#, Javascript, Typescript, Docker, AWS, Vercel, Nextj
 
 
 **Fun Fact 🌱**<br/>
-Meu objetivo de vida é ter diversos hobbies para ser ruim em todos eles. Não sei nadar mas meu sonho é completar um Ironman (comecei a correr ano passado) e minha paixão por programação veio de um jogo de videogame que nunca joguei.  
+Meu objetivo de vida é ter diversos hobbies para ser ruim em todos eles. Não sei nadar mas meu sonho é completar um triathlon Ironman (comecei a correr ano passado) e minha paixão por programação veio de um jogo de videogame que nunca joguei.  
 <br/>
 - Confira o github do meu buddy <a href="https://github.com/AzevedoMauricio">Maurício Azevedo</a>
 
