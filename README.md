@@ -14,7 +14,7 @@ Software / AI engineer building production backends, LLM applications, and full-
 | Project | What it shows |
 | --- | --- |
 | [credit-portfolio-optimizer](https://github.com/obielwb/credit-portfolio-optimizer) | FastAPI + Next.js + OR / clustering pipeline for portfolio limit assignment (sanitized public edition) |
-| [bridge](https://github.com/obielwb/bridge) | MCP gateway for connecting tools to AI agents |
+| [pandemica](https://github.com/obielwb/pandemica) | The new way to prevent the next big pandemic |
 | [horizon](https://github.com/obielwb/horizon) | Agent for discovering AI startups in Latin America |
 
 #### Contact
